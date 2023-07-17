@@ -32,7 +32,6 @@ In terms of user views, the different types of users in the system will have dif
 - Housekeepers: Can view and edit the tasks assigned to them.
 
 ## Project Report
-Apologies for the confusion. Here is the ordered list of link strings from Report-01 to Report-23:
 
 ![Report-01](https://github.com/ashrafyawar/Hotel-Management-System-Back-End-Spring-Boot-Project/assets/32710632/f5948c8b-3af1-40e5-bb57-58aadc156c08)
 ![Report-02](https://github.com/ashrafyawar/Hotel-Management-System-Back-End-Spring-Boot-Project/assets/32710632/92273874-194a-4ba4-ba95-0ac4d6d90475)
