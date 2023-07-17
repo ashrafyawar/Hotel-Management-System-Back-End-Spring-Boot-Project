@@ -34,7 +34,7 @@ In terms of user views, the different types of users in the system will have dif
 ## Project Report
 Apologies for the confusion. Here is the ordered list of link strings from Report-01 to Report-23:
 
-- [Report-01](https://github.com/ashrafyawar/Hotel-Management-System-Back-End-Spring-Boot-Project/assets/32710632/f5948c8b-3af1-40e5-bb57-58aadc156c08)
+![Report-01](https://github.com/ashrafyawar/Hotel-Management-System-Back-End-Spring-Boot-Project/assets/32710632/f5948c8b-3af1-40e5-bb57-58aadc156c08)
 - [Report-02](https://github.com/ashrafyawar/Hotel-Management-System-Back-End-Spring-Boot-Project/assets/32710632/92273874-194a-4ba4-ba95-0ac4d6d90475)
 - [Report-03](https://github.com/ashrafyawar/Hotel-Management-System-Back-End-Spring-Boot-Project/assets/32710632/49e86555-0021-4354-b8af-6de639894a8e)
 - [Report-04](https://github.com/ashrafyawar/Hotel-Management-System-Back-End-Spring-Boot-Project/assets/32710632/4d971711-a628-4048-997a-b38e40d8d4c9)
@@ -52,9 +52,7 @@ Apologies for the confusion. Here is the ordered list of link strings from Repor
 - [Report-16](https://github.com/ashrafyawar/Hotel-Management-System-Back-End-Spring-Boot-Project/assets/32710632/6f3c72b4-59ff-4374-a321-60027e098b21)
 - [Report-17](https://github.com/ashrafyawar/Hotel-Management-System-Back-End-Spring-Boot-Project/assets/32710632/a39c6654-6708-48ed-b361-c3375f3c20da)
 - [Report-18](https://github.com/ashrafyawar/Hotel-Management-System-Back-End-Spring-Boot-Project/assets/32710632/fe73fced-df3b-426d-b17f-c5343f893311)
-- [Report-19](https://github
-
-.com/ashrafyawar/Hotel-Management-System-Back-End-Spring-Boot-Project/assets/32710632/0a3af554-cf62-4d8c-b414-f39c077bbe9f)
+- [Report-19](https://github.com/ashrafyawar/Hotel-Management-System-Back-End-Spring-Boot-Project/assets/32710632/0a3af554-cf62-4d8c-b414-f39c077bbe9f)
 - [Report-20](https://github.com/ashrafyawar/Hotel-Management-System-Back-End-Spring-Boot-Project/assets/32710632/7d6e81f7-fbe2-4e96-b2a9-12d725888630)
 - [Report-21](https://github.com/ashrafyawar/Hotel-Management-System-Back-End-Spring-Boot-Project/assets/32710632/92606000-3fbf-47f2-ae2a-dcdb38157092)
 - [Report-22](https://github.com/ashrafyawar/Hotel-Management-System-Back-End-Spring-Boot-Project/assets/32710632/098ce363-dfab-4672-909b-4143ce9f79f3)
