@@ -1,0 +1,2 @@
+drop database hotel_management_system_db;
+create database hotel_management_system_db;
